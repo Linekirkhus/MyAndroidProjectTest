@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035409105384",
+    "project_id": "amazingapp-c26ce",
+    "storage_bucket": "amazingapp-c26ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035409105384:android:219aee2e2ba51ef550445d",
+        "android_client_info": {
+          "package_name": "com.example.amazingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035409105384-at2fb2ia0m8qnkn69qn5klglo25gqh21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnBat8nfPVTBMxprDAaO8N4wbPZIfH_ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035409105384-at2fb2ia0m8qnkn69qn5klglo25gqh21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

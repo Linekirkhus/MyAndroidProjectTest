@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">AmaZingApp</string>
+    <string name="amazing_app">AmaZing App</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="new_user">New Here? Create Account</string>
+    <string name="email">Email</string>
+    <string name="login_btn">Login</string>
+    <string name="welcome_to_unwind">Welcome to UnWind</string>
+    <string name="amazingapp">AmaZingApp</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone">Phone</string>
+    <string name="register">Register</string>
+    <string name="already_registered_login_here">Already Registered? Login Here</string>
+    <string name="new_user_create_account_here">New User? Create account here</string>
+    <string name="unwind_dashboard">UnWind Dashboard</string>
+</resources>
