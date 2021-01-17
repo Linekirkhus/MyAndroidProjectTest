@@ -11,15 +11,15 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_register)
         auth = FirebaseAuth.getInstance()
-        //val myTv = findViewById<TextView>(R.id.my_tv)
+      //  val myTv = findViewById<TextView>(R.id.my_tv)
 
         // Write a message to the database
        // val database = Firebase.database
        // val myRef = database.getReference("message")
 
-       // myRef.setValue("Hello, World!")
+       //myRef.setValue("Hello, World!")
     }
 
 }

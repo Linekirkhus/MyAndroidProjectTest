@@ -14,4 +14,5 @@
     <string name="already_registered_login_here">Already Registered? Login Here</string>
     <string name="new_user_create_account_here">New User? Create account here</string>
     <string name="unwind_dashboard">UnWind Dashboard</string>
+    <string name="forgot_password">Forgot Password?</string>
 </resources>
